@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/header.png" alt="Explorer AI Header" width="100%" />
+</p>
+
 # Explorer AI — On-Device Gemma 4 Travel Assistant & Itinerary Manager
 
 [![Android](https://img.shields.io/badge/Platform-Android_8.0%2B_(API_26%2B)-brightgreen.svg?style=for-the-badge&logo=android)](https://developer.android.com)
