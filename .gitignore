@@ -1,0 +1,43 @@
+*.iml
+.gradle
+/local.properties
+local.properties
+.gradle-home/
+.gradle_home/
+.env
+.env.*
+*.env
+
+# IDE & OS
+/.idea/
+.DS_Store
+Thumbs.db
+
+# Build outputs & APKs
+/build
+/app/build
+/captures
+.externalNativeBuild
+.cxx
+*.apk
+*.aab
+
+# Keystores & Signing Keys
+*.jks
+*.keystore
+*.pem
+*.p12
+*.key
+
+# Firebase & Cloud Credentials
+google-services.json
+GoogleService-Info.plist
+
+# AI Models (prevent committing gigabyte binaries)
+*.bin
+*.task
+*.safetensors
+*.pth
+*.onnx
+*.litertlm
+

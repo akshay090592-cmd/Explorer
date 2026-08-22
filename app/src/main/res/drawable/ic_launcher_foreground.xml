@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Safe zone is 66x66 centered at 54,54 (from 21,21 to 87,87) -->
+
+    <!-- Stylized Paper Plane / Travel Icon -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,45 L80,30 L65,80 L55,55 Z" />
+
+    <!-- Accent line -->
+    <path
+        android:fillColor="#FBE1AB"
+        android:pathData="M55,55 L40,70 L45,58 Z" />
+
+</vector>
